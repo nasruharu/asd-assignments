@@ -1,4 +1,4 @@
-public class LinkedListDemo {
+npublic class LinkedListDemo {
     public static void main(String[] args) {        
         LinkedList list = new LinkedList();
 
@@ -24,5 +24,7 @@ public class LinkedListDemo {
         // no. 3
         list.replaceAtIndex(1, 150);
         list.printList();
+
+        // anggep ini perubahan
     }
 }
