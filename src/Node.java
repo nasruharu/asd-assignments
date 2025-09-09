@@ -5,10 +5,4 @@ public class Node{
     public Node(Object data){
         this.data = data;
     }
-
-    Node(Object data, Node next){
-        this.data = data;
-        this.next = next;
-    }
-
 }
